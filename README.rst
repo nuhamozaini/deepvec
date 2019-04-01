@@ -22,8 +22,8 @@ Installation
 -------
 Notes
 -------
-* The library is for classification datasets (labeled)
-* The library accepts CSV of two columns, text (sentences) column and label
+* The library is for classification datasets (labeled).
+* The library accepts CSV of two columns, text (sentences) column and label column (numeric data only).
 * The library transforms text to vector, extracts features from vectors then classifies.
 
 -------
