@@ -7,14 +7,14 @@ with open("README.rst", "r") as fh:
 setup(
     name='deepvec',
     packages=['deepvec'],
-    version='0.1',
+    version='0.2',
     license='MIT',
     description='Tensorflow wrapper for classification',
     long_description=long_description,
     author='Nuha Almozaini',
     author_email='nuha.mozaini@gmail.com',
     url='https://github.com/nuhamozaini',
-    download_url='https://github.com/nuhamozaini/deepvec/archive/v_01.tar.gz',
+    download_url='https://github.com/nuhamozaini/deepvec/archive/v_02.tar.gz',
     keywords=['classification', 'deep learning', 'tensorflow', 'keras', 'pandas'],
     install_requires=[
         'tensorflow',
