@@ -13,7 +13,7 @@ setup(
     long_description=long_description,
     author='Nuha Almozaini',
     author_email='nuha.mozaini@gmail.com',
-    url='https://github.com/nuhamozaini',
+    url='https://github.com/nuhamozaini/deepvec',
     download_url='https://github.com/nuhamozaini/deepvec/archive/v_02.tar.gz',
     keywords=['classification', 'deep learning', 'tensorflow', 'keras', 'pandas'],
     install_requires=[
